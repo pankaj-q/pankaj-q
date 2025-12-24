@@ -11,7 +11,8 @@
 
 👨‍💻 Who Am I
 
-	•	🎓 B.Tech Student
+	•	🎓 B.Tech Student and I write Code !!
+	
 
 
 
