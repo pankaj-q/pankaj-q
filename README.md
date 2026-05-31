@@ -44,12 +44,6 @@ Frontend when needed — enough to ship.
 
 **Currently**
 
-Building backend systems · Exploring AI-powered product features · Learning more about system design
-
----
-
-**Currently**
-
 ```
 Building backend systems · Exploring AI-powered product features · Learning more about system design
 ```
