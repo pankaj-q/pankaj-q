@@ -58,6 +58,6 @@ Building backend systems · Exploring AI-powered product features · Learning mo
 
 **Reach me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/pankaj-kumar-49715b29b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/pankaj-kumar-49715b29b/](https://www.linkedin.com/in/pankaj-kumar-49715b29b/))
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](codepankaj84@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)]([your-twitter-url](https://x.com/thepankaj02))
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](your-twitter-url](https://x.com/thepankaj02))
